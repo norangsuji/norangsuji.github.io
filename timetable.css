@@ -1,0 +1,28 @@
+html, body{
+    background-color: #f1f6ff;
+    margin: 0; 
+}
+
+nav{
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: var(--background-color);
+    padding: 2% 35% 0% 35%;
+}
+section{
+    padding-top: 5%;
+}
+* {font-family: "Playfair Display" , "Hahmlet", serif;}
+
+.timetable{
+    text-align: right;
+    float:left;
+    width: 48%;
+    margin-right: 5%;
+}
+.caprion{
+    width: 47%;
+    float:left;
+}
